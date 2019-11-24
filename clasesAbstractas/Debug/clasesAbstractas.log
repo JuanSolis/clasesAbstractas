@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+c:\users\warfa\source\repos\clasesabstractas\clasesabstractas\myform.h(2): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+c:\users\warfa\source\repos\clasesabstractas\clasesabstractas\myform.h(3): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+c:\users\warfa\source\repos\clasesabstractas\clasesabstractas\myform.h(4): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+c:\users\warfa\source\repos\clasesabstractas\clasesabstractas\myform.h(5): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+c:\users\warfa\source\repos\clasesabstractas\clasesabstractas\myform.h(6): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+c:\users\warfa\source\repos\clasesabstractas\clasesabstractas\myform.h(7): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+c:\users\warfa\source\repos\clasesabstractas\clasesabstractas\myform.h(8): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+c:\users\warfa\source\repos\clasesabstractas\clasesabstractas\myform.h(9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  cuadrilatero.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  clasesAbstractas.vcxproj -> C:\Users\warfa\source\repos\clasesAbstractas\Debug\clasesAbstractas.exe
